@@ -1,0 +1,7 @@
+at_operations.c:21:6:op_abs_diff_angle	48	static
+at_operations.c:38:6:op_movavg	48	static
+at_operations.c:56:6:op_rate	48	static
+at_operations.c:97:6:op_bool	32	static
+at_operations.c:113:6:op_int	32	static
+at_operations.c:129:6:op_double	40	static
+at_operations.c:145:6:op_error	16	static
